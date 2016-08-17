@@ -1,0 +1,33 @@
+\contentsline {chapter}{\numberline {1}Introduction to Pure Mathematics}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Mathematical Lingo}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Writing Proofs}{6}{section.1.2}
+\contentsline {section}{\numberline {1.3}Logic and Propositional Calculus}{11}{section.1.3}
+\contentsline {chapter}{\numberline {2}Fundamental Mathematics}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Set Algebra}{13}{section.2.1}
+\contentsline {subsubsection}{Set Inclusion and Subsets}{13}{section*.8}
+\contentsline {subsubsection}{Defining Sets}{15}{section*.9}
+\contentsline {subsubsection}{Cartesian Products and Ordered Pairs}{16}{section*.11}
+\contentsline {subsubsection}{Union, Intersection, and Complement}{17}{section*.12}
+\contentsline {subsubsection}{Properties of Set Operations}{19}{section*.13}
+\contentsline {section}{\numberline {2.2}Functions}{21}{section.2.2}
+\contentsline {section}{\numberline {2.3}Relations}{27}{section.2.3}
+\contentsline {section}{\numberline {2.4}Counting Principles}{32}{section.2.4}
+\contentsline {chapter}{\numberline {3}Axiom Systems}{39}{chapter.3}
+\contentsline {section}{\numberline {3.1}Models}{39}{section.3.1}
+\contentsline {section}{\numberline {3.2}Consistency}{42}{section.3.2}
+\contentsline {section}{\numberline {3.3}Independence}{43}{section.3.3}
+\contentsline {section}{\numberline {3.4}Isomorphisms and Completeness}{44}{section.3.4}
+\contentsline {chapter}{\numberline {4}Euclid's Geometry}{47}{chapter.4}
+\contentsline {section}{\numberline {4.1}Euclid's Postulates and Definitions}{47}{section.4.1}
+\contentsline {section}{\numberline {4.2}Proposition 1, 2, 4, and 8}{47}{section.4.2}
+\contentsline {section}{\numberline {4.3}Proposition 9, 10, 11, and 12}{47}{section.4.3}
+\contentsline {chapter}{\numberline {5}Linear Algebra Review}{49}{chapter.5}
+\contentsline {section}{\numberline {5.1}Vector Spaces}{49}{section.5.1}
+\contentsline {section}{\numberline {5.2}Linear Transformations}{53}{section.5.2}
+\contentsline {section}{\numberline {5.3}Determinants}{54}{section.5.3}
+\contentsline {section}{\numberline {5.4}Eigenstuff}{54}{section.5.4}
+\contentsline {chapter}{\numberline {6}Basic Group Theory}{55}{chapter.6}
+\contentsline {section}{\numberline {6.1}Basic Group Theory}{56}{section.6.1}
+\contentsline {section}{\numberline {6.2}The Dihedral Group}{56}{section.6.2}
+\contentsline {section}{\numberline {6.3}The Symmetric Group}{56}{section.6.3}
+\contentsline {section}{\numberline {6.4}Geometric Transformation Groups}{56}{section.6.4}

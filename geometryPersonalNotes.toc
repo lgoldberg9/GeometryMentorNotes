@@ -1,0 +1,35 @@
+\contentsline {chapter}{\numberline {1}Finite Geometries}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Axiomatic Systems}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Finite Projective Planes}{7}{section.1.2}
+\contentsline {section}{\numberline {1.3}Desargues' Configurations}{11}{section.1.3}
+\contentsline {chapter}{\numberline {2}Non-Euclidean Geometries}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Euclid's Geometry}{13}{section.2.1}
+\contentsline {section}{\numberline {2.2}Non-Euclidean Geometry}{13}{section.2.2}
+\contentsline {section}{\numberline {2.3}Hyperbolic Geometry -- Sense Parallels}{13}{section.2.3}
+\contentsline {section}{\numberline {2.4}Hyperbolic Geometry -- Asymptotic Triangles}{13}{section.2.4}
+\contentsline {section}{\numberline {2.5}Hyperbolic Geometry -- Saccheri Quadrilaterals}{13}{section.2.5}
+\contentsline {section}{\numberline {2.6}Hyperbolic Geometry -- Area of Triangles}{13}{section.2.6}
+\contentsline {section}{\numberline {2.7}Hyperbolic Geometry -- Ultraparallels}{13}{section.2.7}
+\contentsline {section}{\numberline {2.8}Elliptic Geometry}{13}{section.2.8}
+\contentsline {section}{\numberline {2.9}Significance of Non-Euclidean Geometries}{13}{section.2.9}
+\contentsline {chapter}{\numberline {3}Geometric Transformations of Euclidean Plane}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}An Analytic Model of the Euclidean Plane}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Linear Transformations of the Euclidean Plane}{15}{section.3.2}
+\contentsline {section}{\numberline {3.3}Isometries}{15}{section.3.3}
+\contentsline {section}{\numberline {3.4}Direct Isometries}{15}{section.3.4}
+\contentsline {section}{\numberline {3.5}Indirect Isometries}{15}{section.3.5}
+\contentsline {section}{\numberline {3.6}Symmetry Groups}{15}{section.3.6}
+\contentsline {section}{\numberline {3.7}Similarity Transformations}{15}{section.3.7}
+\contentsline {section}{\numberline {3.8}Affine Transformations}{15}{section.3.8}
+\contentsline {chapter}{\numberline {4}Projective Geometry}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}The Axiomatic System and Duality}{17}{section.4.1}
+\contentsline {section}{\numberline {4.2}Perspective Triangles}{17}{section.4.2}
+\contentsline {section}{\numberline {4.3}Harmonic Sets}{17}{section.4.3}
+\contentsline {section}{\numberline {4.4}Perspectives and Projectivities}{17}{section.4.4}
+\contentsline {section}{\numberline {4.5}Conics In the Projective Plane}{17}{section.4.5}
+\contentsline {section}{\numberline {4.6}An Analytic Model for the Projective Plane}{17}{section.4.6}
+\contentsline {section}{\numberline {4.7}The Analytic Form of Projectivities}{17}{section.4.7}
+\contentsline {section}{\numberline {4.8}Cross Ratios}{17}{section.4.8}
+\contentsline {section}{\numberline {4.9}Collineations}{17}{section.4.9}
+\contentsline {section}{\numberline {4.10}Correlations and Polarities}{17}{section.4.10}
+\contentsline {section}{\numberline {4.11}Subgeometries of Projectice Geometry}{17}{section.4.11}
